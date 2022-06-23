@@ -1,5 +1,5 @@
 ﻿ #NoTrayIcon
-#SingleInstance Force
+#SingleInstance Force 
 
 CreateUpdater()
 
